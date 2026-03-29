@@ -15,13 +15,12 @@ I am Nithya Shree A, an ECE undergraduate focused on Backend Development and AI.
 - Tools: Git, GitHub, Figma  
 
 # 🚀 Featured Projects:
-- AI Sentiment Classifier  
-- Smart Transit Optimizer  
-- Backend API System  
+-Coming soon...
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NithyaShreeA2005&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=NithyaShreeA2005&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=NithyaShreeA2005&theme=dark&cache_seconds=86400)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NithyaShreeA2005&layout=compact&theme=dark&cache_seconds=86400)
 
 <!--
 **NithyaShreeA2005/NithyaShreeA2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
