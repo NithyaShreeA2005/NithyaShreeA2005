@@ -18,9 +18,7 @@ I am Nithya Shree A, an ECE undergraduate focused on Backend Development and AI.
 -Coming soon...
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NithyaShreeA2005&theme=dark&cache_seconds=86400)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NithyaShreeA2005&layout=compact&theme=dark&cache_seconds=86400)
+![](https://streak-stats.demolab.com?user=NithyaShreeA2005&theme=dark)
 
 <!--
 **NithyaShreeA2005/NithyaShreeA2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
